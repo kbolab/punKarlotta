@@ -1,0 +1,10 @@
+Package: distributedKarlotta
+Type: Package
+Title: Distributed All
+Version: 1.0
+Date: 2016-11-08
+Author: Carlotta Masciocchi, Andrea Damiani, Roberto Gatta
+Maintainer: Roberto Gatta <roberto.gatta.bs@alice.it>
+Description: Bubusettete!!!!
+License: GPL-2
+RoxygenNote: 5.0.1
